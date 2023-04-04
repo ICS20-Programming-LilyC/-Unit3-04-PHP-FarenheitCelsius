@@ -8,4 +8,4 @@
 ?>
 
 <h3>Results:</h3>
-The converted temprature from fahrenheit to celsius is <?php echo "$roundedCelsius" ?> C°.
+The converted temperature from fahrenheit to celsius is <?php echo "$roundedCelsius" ?> C°.
